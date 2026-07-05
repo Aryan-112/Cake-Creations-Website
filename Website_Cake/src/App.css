@@ -74,15 +74,6 @@ nav ul li a:hover {
   box-sizing: border-box;
 }
 
-Cakes {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  text-align: left;
-  padding: 1.5rem;
-  width: 100%;
-  box-sizing: border-box;
-}
 
 .intro {
   color: #d4af37;
@@ -127,4 +118,60 @@ Cakes {
   font-size: 1.0rem;
   margin-top: 5px;
   font-weight: bold;
+}
+
+#Cakes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  padding: 1.5rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.sticker-row {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+.sticker1,
+.eggless_sticker {
+  width: 300px;
+  height: auto;
+}
+
+.flavour_heading {
+  color: #d4af37;
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  border-bottom: 2px solid #d4af37;
+  padding-bottom: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.price_heading {
+  color: #d4af37;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  border-bottom: 2px solid #d4af37;
+  padding-bottom: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.cake_size_heading {
+  color: #d4af37;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 5px;
 }
