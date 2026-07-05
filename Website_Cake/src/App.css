@@ -6,7 +6,25 @@ nav {
   width: 100%;
   background-color: #fff0f5;
   border-bottom: 3px solid #d4af37;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
+html {
+  scroll-behavior: smooth;
+}
+
+.logo {
+  width: 250px;
+  height: auto;
+}
+
+.hero-banner {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 
 nav h1 {
   color: #d4af37;
@@ -15,6 +33,13 @@ nav h1 {
   letter-spacing: 2px;
 }
 
+nav h2 {
+  color: #d4af37;
+  font-size: 2.0 rem;
+  letter-spacing: 2px;
+  margin-top: 25px;
+  align-self: flex-start;
+}
 nav ul {
   display: flex;
   list-style: none;
@@ -37,4 +62,69 @@ nav ul li a {
 
 nav ul li a:hover {
   color: #ff69b4;
+}
+
+#Home {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  padding: 1.5rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+Cakes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  padding: 1.5rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.intro {
+  color: #d4af37;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  align-self: flex-start;
+}
+
+.intro_paragraph_1 {
+  color: #d4af37;
+  font-size: 1.0rem;
+  margin-top: 10px;
+  align-self: flex-start;
+}
+
+.intro_Offer {
+  color: #d4af37;
+  font-size: 1.0rem;
+  margin-top: 10px;
+  align-self: flex-start;
+}
+
+.Offer_List {
+  display: block;
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin: 1rem 0;
+  border: none;
+  background-color: transparent;
+  width: auto;
+}
+
+.Offer_List li {
+  display: list-item;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.Offer_conclusion {
+  color: #d4af37;
+  font-size: 1.0rem;
+  margin-top: 5px;
+  font-weight: bold;
 }
