@@ -1,0 +1,42 @@
+#Contact {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  padding: 1.5rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.contact_list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.contact_link {
+  color: #ff69b4;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact_link:hover {
+  color: #d4af37;
+  text-decoration: underline;
+}
+
+.faq_item {
+  margin-bottom: 15px;
+}
+
+.faq_question {
+  color: #d4af37;
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 2px;
+}
+
+.faq_answer {
+  color: #333;
+  font-size: 1rem;
+  margin-top: 0;
+}
