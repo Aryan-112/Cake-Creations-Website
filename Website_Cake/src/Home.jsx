@@ -124,14 +124,16 @@ function Home() {
       <h3 className='price_heading'>Cupcakes</h3>
       <ul className='Offer_List'>
         <li>Box of 6 Cupcakes – $30</li>
-        <li>Box of 12 Cupcakes – $55</li>
+        <li>Box of 12 Cupcakes – $54</li>
+        <li>Box of 24 Cupcakes – $96</li>
       </ul>
       <p className='intro_paragraph_1'>Premium Flavours (Rasmalai, Gulab Jamun, Rose Pistachio, Mawa, Biscoff): +$5 per box</p>
 
       <h3 className='price_heading'>Mini Cupcakes</h3>
       <ul className='Offer_List'>
+        <li>Box of 6 – $18</li>
         <li>Box of 12 – $30</li>
-        <li>Box of 24 – $55</li>
+        <li>Box of 24 – $54</li>
       </ul>
 
       <h3 className='price_heading'>Cakes</h3>
@@ -171,8 +173,8 @@ function Home() {
       <h3 className='price_heading'>Extras</h3>
       <ul className='Offer_List'>
         <li>Fondant Decorations: From $20-$80+</li>
-        <li>Fresh flowers: From $20</li>
-        <li>Custom cake Topper: From $15</li>
+        <li>Fresh Flowers: From $20</li>
+        <li>Custom Cake Topper: From $15</li>
         <li>Edible Image: From $15</li>
         <li>Cupcake Matching Set: From $4 each</li>
       </ul>

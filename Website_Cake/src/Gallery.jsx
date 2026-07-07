@@ -46,7 +46,7 @@ function Gallery() {
     },
     {
       image: Blue_Cake1,
-      title: 'Blue Cake 1'
+      title: 'Octonauts Cake',
     },
     {
       image: Chocolate_Cake,
@@ -74,7 +74,7 @@ function Gallery() {
     },
     {
       image: Pink_Cake_6,
-      title: 'Pink Cake 2',
+      title: 'Baby Shower Cake',
     },
     {
       image: Letter_Cake,
@@ -82,15 +82,15 @@ function Gallery() {
     },
     {
       image: Blue_Cake_2,
-      title: 'Blue Cake 2',
+      title: 'Stitch Cake',
     },
     {
       image: Monkey_Cake,
-      title: 'Monkey_Cake',
+      title: 'Monkey Cake',
     },
     {
       image: Pink_Cake_2,
-      title: 'Pink Cake 3',
+      title: 'Rainbow Cake',
     },
     {
       image: Minnie_Cake,
@@ -102,15 +102,15 @@ function Gallery() {
     },
     {
       image: Blue_Cake,
-      title: 'Blue Cake 3',
+      title: 'Soccer Cake',
     },
     {
       image: Ribbon_Cake,
-      title: 'Ribbon Cake',
+      title: 'Vintage Cake',
     },
     {
       image: Pink_Cake_3,
-      title: 'Pink Cake 4',
+      title: 'Smiley Cake',
     },
     {
       image: Spiderman_Cake,
@@ -122,11 +122,11 @@ function Gallery() {
     },
     {
       image: Blue_Cake_4,
-      title: 'Blue Cake 4',
+      title: 'Cars Cake',
     },
     {
       image: Pink_Cake_4,
-      title: 'Pink Cake 5',
+      title: 'Pink Cake 2',
     },
     {
       image: Thomas_Cake,
@@ -138,27 +138,27 @@ function Gallery() {
     },
     {
       image: Pink_Cake_5,
-      title: 'Pink Cake 6',
+      title: 'Pink Cake 3',
     },
     {
       image: Cupcake_1,
-      title: 'Cupcake 1',
+      title: 'Floral Cupcake',
     },
     {
       image: Bread,
-      title: 'Loaf',
+      title: 'Orange and Chocolate Loaf',
     },
     {
       image: Cake1,
-      title: 'Cake 1',
+      title: 'Chocolate & Carrot Loaf',
     },
     {
       image: Cupcake_2,
-      title: 'Cupcake 2',
+      title: 'Chocolate and Pistachio Cupcake',
     },
     {
       image: Cake2,
-      title: 'Cake 2',
+      title: 'Orange Loaf',
     },
     
 

@@ -16,7 +16,7 @@ function Contact() {
       <h2>Order Information</h2>
       <ul className='Offer_List'>
         <li>Custom orders welcome</li>
-        <li>Please order 2–5 days in advance</li>
+        <li>Please order 4–5 days in advance</li>
         <li>Pickup available</li>
         <li>Delivery available in selected Sydney suburbs</li>
       </ul>
@@ -26,8 +26,8 @@ function Contact() {
         <li>Name: Palvee Bake</li>
         <li>Phone: <a href="tel:0423255325" className='contact_link'>0423 255 325</a></li>
         <li>Email: <a href="mailto:palvee_raheja@yahoo.com" className='contact_link'>palvee_raheja@yahoo.com</a></li>
-        <li>Instagram: <a href="#" className='contact_link'>Coming soon</a></li>
-        <li>Facebook: <a href="#" className='contact_link'>Coming soon</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/rahejapalvee/" className='contact_link' target="_blank" rel="noopener noreferrer">rahejapalvee</a></li>
+        <li>Facebook: <a href="https://www.facebook.com/palveescakecreations" className='contact_link' target="_blank" rel="noopener noreferrer">Palvee's Cake Creations</a></li>
       </ul>
 
       <h2 className='flavour_heading'>FAQ</h2>
