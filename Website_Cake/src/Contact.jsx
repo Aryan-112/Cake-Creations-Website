@@ -23,7 +23,7 @@ function Contact() {
 
       <h2 className='price_heading'>Contact</h2>
       <ul className='Offer_List contact_list'>
-        <li>Name: Palvee Bake</li>
+        <li>Name: Palvee Raheja</li>
         <li>Phone: <a href="tel:0423255325" className='contact_link'>0423 255 325</a></li>
         <li>Email: <a href="mailto:palvee_raheja@yahoo.com" className='contact_link'>palvee_raheja@yahoo.com</a></li>
         <li>Instagram: <a href="https://www.instagram.com/rahejapalvee/" className='contact_link' target="_blank" rel="noopener noreferrer">rahejapalvee</a></li>
