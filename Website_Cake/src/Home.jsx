@@ -44,7 +44,6 @@ function Home() {
 
       <div className="sticker-row">
       <img src={sticker1} alt="Palvee's Cake Creation sticker" className="sticker1"/>
-      <img src={Eggless} alt="Eggless cake" className="eggless_sticker"/>
       </div>
       
       <section id='Cakes'>
