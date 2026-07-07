@@ -30,6 +30,11 @@ import Thomas_Cake from './assets/cakes/Thomas_Cake.JPG'
 import Frozen_Cake_2 from './assets/cakes/Frozen_Cake1.JPG'
 import Pink_Cake_5 from './assets/cakes/Pink_Cake5.JPG'
 import Pink_Cake_6 from './assets/cakes/Pink_Cake1.JPG'
+import Cupcake_1 from './assets/CupCake1.jpeg'
+import Bread from './assets/Bread.jpeg'
+import Cake1 from './assets/Cake1.jpeg'
+import Cupcake_2 from './assets/CupCake.jpeg'
+import Cake2 from './assets/Cake2.jpeg'
 import './Gallery.css' 
 
 function Gallery() {
@@ -134,7 +139,28 @@ function Gallery() {
     {
       image: Pink_Cake_5,
       title: 'Pink Cake 6',
-    }
+    },
+    {
+      image: Cupcake_1,
+      title: 'Cupcake 1',
+    },
+    {
+      image: Bread,
+      title: 'Loaf',
+    },
+    {
+      image: Cake1,
+      title: 'Cake 1',
+    },
+    {
+      image: Cupcake_2,
+      title: 'Cupcake 2',
+    },
+    {
+      image: Cake2,
+      title: 'Cake 2',
+    },
+    
 
 
   ]
