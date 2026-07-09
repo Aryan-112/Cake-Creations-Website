@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
+import { Analytics } from '@vercel/analytics/react'
 import Logo from './assets/logo_final.png'
 import Home from './Home'
 import Gallery from './Gallery'
@@ -24,6 +25,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
+      <Analytics />
     </BrowserRouter>
   )
 }
